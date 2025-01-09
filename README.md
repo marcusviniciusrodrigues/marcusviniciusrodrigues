@@ -1,5 +1,7 @@
 ## Alô! Sou o Marcus Vinicius 👋
 
+Mestrando em Bioinformática pela Universidade Tecnológica Federal do Paraná (UTFPR). Possui Licenciatura e Bacharelado em Ciências Biológicas pela Universidade Estadual do Norte do Paraná (UENP). Atuo nas áreas de bioinformática, com ênfase na montagem, análise e extração de caracteristicas de genomas com foco na biotecnologia, para desenvolvimento de biodefensivos agrícolas.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/marcus-vinicius-da-silva-rodrigues-88652325b/)
 
@@ -15,8 +17,6 @@
   <img aling="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img aling="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)" />
 </div> 
-
-Mestrando em Bioinformática pela Universidade Tecnológica Federal do Paraná (UTFPR). Possui Licenciatura e Bacharelado em Ciências Biológicas pela Universidade Estadual do Norte do Paraná (UENP). Atuo nas áreas de bioinformática, com ênfase na montagem, análise e extração de caracteristicas de genomas com foco na biotecnologia, para desenvolvimento de biodefensivos agrícolas.
 
 ## Último artigo publicado:
 - [Draft genome of Bacillus velezensis CMRP6330, a suitable biocontrol agent for disease management in crops](https://journals.asm.org/doi/10.1128/mra.00657-24)<br/> 
