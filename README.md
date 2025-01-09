@@ -5,7 +5,7 @@ Mestrando em Bioinformática pela Universidade Tecnológica Federal do Paraná (
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/marcus-vinicius-da-silva-rodrigues-88652325b/)
 
-[![Lattes](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black)](http://lattes.cnpq.br/1034886569235480)
+[![Lattes](https://img.shields.io/badge/Lattes-0055A4?style=for-the-badge&logo=lattes&logoColor=white)](http://lattes.cnpq.br/1034886569235480)
 
 ![Marcus Github stats](https://github-readme-stats.vercel.app/api?username=marcusviniciusrodrigues&show_icons=true&theme=radical)
 
