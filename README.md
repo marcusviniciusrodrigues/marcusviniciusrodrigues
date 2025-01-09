@@ -1,6 +1,6 @@
 ## Alô! Sou o Marcus Vinicius 👋
 
-Mestrando em Bioinformática pela Universidade Tecnológica Federal do Paraná (UTFPR). Possui Licenciatura e Bacharelado em Ciências Biológicas pela Universidade Estadual do Norte do Paraná (UENP). Atuo nas áreas de bioinformática, com ênfase na montagem, análise e extração de caracteristicas de genomas com foco na biotecnologia, para desenvolvimento de biodefensivos agrícolas.
+Mestrando em Bioinformática pela Universidade Tecnológica Federal do Paraná (UTFPR). Possui Licenciatura e Bacharelado em Ciências Biológicas pela Universidade Estadual do Norte do Paraná (UENP). Atuo na área de bioinformática, com ênfase na montagem, análise e extração de caracteristicas de genomas com foco em pesquisa e desenvolvimento no setor de biotecnologia.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/marcus-vinicius-da-silva-rodrigues-88652325b/)
